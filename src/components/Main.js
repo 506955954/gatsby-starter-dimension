@@ -42,7 +42,7 @@ class Main extends React.Component {
             information can be found on websites: https://www.israeltrail.net/
             and http://lukaszsupergan.com/
           </p>
-          <p>	
+          <p align='justify'>	
             I started my hiking from Eilat on 13 February 2019 and walked 
             over 140 km for 7 days. Pebbly and mountainy character of the
             desert in combination with 17 kg backpack dictates slower pace.
@@ -53,7 +53,7 @@ class Main extends React.Component {
             streams. On many occasions I saw last of substantial rainy seasons
             this year.
           </p>
-          <p>	
+          <p align='justify'>	
             Eilat Mountains section of the trail is supposedly the most
             difficult. First day is often climbing colourful rocks. On occasion
             ladders and handles are installed. I was passed by huge Israeli
@@ -66,7 +66,7 @@ class Main extends React.Component {
             2nd millennium BC and subsequent tribes. It is believed that King
             Solomon's wealth originated here.
           </p>
-          <p>	
+          <p align='justify'>	
             Kibbutzim and small settlements often lie close to the trail. They
             are an oportunity for a meal, supplying stocks of water and food.
             You can lay over there. Sometimes trail angels live in such places.
@@ -76,7 +76,7 @@ class Main extends React.Component {
             The delivering person is for example a taxi driver from the nearest
             settlement.
           </p>
-          <p>	
+          <p align='justify'>	
             Camp sites are designated and marked. Usually they do not differ
             from surrounding environment besides leftovers from previous people.
             Camping is popular among Israeli people. They arrive before night,
@@ -88,7 +88,7 @@ class Main extends React.Component {
             only Nubian ibex apart from some birds and insects. I was sleeping in
             a tent. Sometimes Israelis sleep only in sleeping bags.
           </p>
-          <p>	
+          <p align='justify'>	
             The desert part I was walking through was marked very well. The INT
             symbol is tricolour vertical strips. From left to right - orange,
             blue, white - this sequence indicates hiking to the North, to the
@@ -97,7 +97,7 @@ class Main extends React.Component {
             the same path for other trails. So it is normal to see different
             colours.
           </p>
-          <p>	
+          <p align='justify'>	
             The Negev Desert landscapes impressed me a lot. Diversity of rock
             formation and their colours astonished me every day. It is also a
             place, in a certain sense, lively. Israelis are open-minded,
@@ -121,7 +121,7 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
-          <p>
+          <p align='justify'>
             Izraelski Szlak Narodowy - Narodowy szlak pieszy Izraela,
             przez National Geographic uznany za jeden z 20-stu najbardziej
             imponujących szlaków pieszych na świecie. Jest jednocześnie
@@ -132,7 +132,7 @@ class Main extends React.Component {
             informacje o szlaku są na stronach https://www.israeltrail.net/
             oraz na http://lukaszsupergan.com/
           </p>
-          <p>
+          <p align='justify'>
             Swoją wędrówkę zacząłem w Ejlacie 13 lutego 2019 r., i idąc 7
             dni przeszedłem ponad 140 km. Kamienisty i górzysty teren pustyni,
             w połączeniu z 17-sto kilogramowym plecakiem, narzucają wolniejsze
@@ -142,7 +142,7 @@ class Main extends React.Component {
             zimowe - do lutego - przynoszą nad Negew deszcze. Kaniony
             zamieniają się nawet w rwące strumienie. Niejednokrotnie widziałem             pozostałości po obfitej w tym roku porze deszczowej.
           </p>
-          <p>
+          <p align='justify'>
            Góry w rejonie Ejlatu to ponoć najtrudniejszy technicznie etap
            całego szlaku. Pierwszy dzień to często wspinaczka kolorowymi
            skałami. Miejscami zainstalowane są drabinki i uchwyty. Mijałem
@@ -155,7 +155,7 @@ class Main extends React.Component {
            poprzecinany ścieżkami pieszymi. Są tu pozostałości Egipskich
            kopalń z II-go tysiąclecia przed Chrystusem, i plemion późniejszych.            Przypuszcza się, że bogactwa króla Salomona pochodziły stąd.
           </p>
-          <p>
+          <p align='justify'>
             Kibuce i małe osiedla ludzkie leżą często w pobliżu szlaku.
             Są okazją do zjedzenia posiłku, uzupełnienia zapasów wody i
             jedzenia. Można tam też zatrzymać się na nocleg. Bywa, że
@@ -165,7 +165,7 @@ class Main extends React.Component {
             depozyty wody. Wtedy zapas czeka na nas w ustalonym miejscu. 
             Osobą dostarczającą jest np. taksówkarz z pobliskiej miejscowości.
           </p>
-          <p>
+          <p align='justify'>
             Miejsca obozowisk są wyznaczone i oznakowane. Zazwyczaj nie
             różnią się od otaczającej przestrzeni oprócz pozostałości po
             ludziach wcześniej nocujących. Biwakowanie jest popularne wśród
@@ -179,7 +179,7 @@ class Main extends React.Component {
             pomijając ptaki i owady. Nocowałem w namiocie. Zdarza się, że
             Izraelczycy nocują tylko w śpiworach. 
           </p>
-          <p>
+          <p align='justify'>
             Odcinek pustynny, którym szedłem był dobrze oznakowany. Symbol
             Izraelskiego Szlaku Narodowego to trzy pionowe pasy. W kolorach
             - od lewej - pomarańczowy, niebieski, biały. Ten układ wskazuje
@@ -188,7 +188,7 @@ class Main extends React.Component {
             w kierunku pustyni. Czasami INT stanowi tę samą ścieżkę dla innych
             szlaków. Normalnym jest pojawienie się nagle innych kolorów.
           </p>
-          <p>
+          <p align='justify'>
             Krajobrazy Negewu zrobiły na mnie duże wrażenie. Różnorodność
             formacji skalnych i ich kolorów zaskakiwała każdego dnia. To także
             miejsce na swój sposób tętniące życiem. Izraelczycy są narodem 
