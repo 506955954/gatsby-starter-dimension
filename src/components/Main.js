@@ -35,7 +35,7 @@ class Main extends React.Component {
           <p align='justify'>
             Israel National Trail - According to National Geographic one of 
             the 20 best "epic hiking trails" in the world. It is also first
-            such a path implemented on Google maps as "Google Street View". 
+            such path plotted on Google maps as "Google Street View". 
             The trail stretches from Kibbutz Dan, near the Israel-Lebanon 
             border, to Eilat on the Gulf of Aqaba. 400 of about 1100 km go 
             across Israeli deserts - mostly via Negev. More specific 
@@ -46,47 +46,31 @@ class Main extends React.Component {
             I started my hiking from Eilat on 13 February 2019 and walked 
             over 140 km for 7 days. Pebbly and mountainy character of the
             desert in combination with 17 kg backpack dictates slower pace.
-            February/March is a good time to start from the southern direction.
-            Average daily temperature is 20°C then. Nights on the desert are
-            cool and temperature falls to few degrees. Wintry months - until
-            February - bring rain over Negev. Even canyons change over rushing
-            streams. On many occasions I saw last of substantial rainy seasons
-            this year.
+            February/March is a good time to start from the South direction.  
+            At this time an average daily temperature is 20°C. Nights on the                    desert are cool and temperature falls to few degrees.                               Wintry months - until February - bring rain over Negev. Even
+            canyons change over rushing streams. On many occasions I saw 
+            last of substantial rainy seasons this year.
           </p>
           <p align='justify'>	
             Eilat Mountains section of the trail is supposedly the most
-            difficult. First day is often climbing colourful rocks. On occasion
-            ladders and handles are installed. I was passed by huge Israeli
-            scholastic youth groups. They learn about their country and sense 
-            of direction in this way. Most of INT hikers are Israelis, and most
-            were walking in opposite direction. I reached Timna Park after few
-            days. The area was famous of copper deposits as far back as antiquity.
-            The Park is of geological-archaeological nature. It covers a big
-            honeycombed areas. The copper-smelting mines are remnants of the
+            difficult. First day is often spent on climbing colourful rocks. On             occasion ladders and handles are installed. I was passed by huge                    Israeli scholastic youth groups. They learn about their country and             sense of direction in this way. Most of INT hikers are Israelis, and             most were walking in opposite direction. I reached Timna Park after 
+            few days. The area was famous fot its copper deposits as far back as                antiquity. The Park is of geological-archaeological nature. It covers
+            vast honeycombed areas. The copper-smelting mines are remnants ofthe
             2nd millennium BC and subsequent tribes. It is believed that King
             Solomon's wealth originated here.
           </p>
           <p align='justify'>	
             Kibbutzim and small settlements often lie close to the trail. They
-            are an oportunity for a meal, supplying stocks of water and food.
-            You can lay over there. Sometimes trail angels live in such places.
+            are an oportunity for a meal, and to replenish stocks of water and             food. You can rest there. Sometimes trail angels live in such places.
             They are people who offer accommodation for free. I was carrying with
-            me a two-three day stock of water and food. Another option is water
+            me a two-three day stock of water and food. Another option is a water
             deposit. In such case the stock is waiting for us in some agreed place.
             The delivering person is for example a taxi driver from the nearest
             settlement.
           </p>
           <p align='justify'>	
-            Camp sites are designated and marked. Usually they do not differ
-            from surrounding environment besides leftovers from previous people.
-            Camping is popular among Israeli people. They arrive before night,
-            setting up their equipment, light fires. It is accompanied by music.
-            Negev desert is a home for many animal species. Among them are: Nubian
-            ibex, hyrax, fox, wolf, onager, hedgehog, viper, dorcas gazelle, snake,
-            scorpion, camel. Some are active at night. Thus it is important to 
-            camp only in designated places and not anywhere. During my hiking I met
-            only Nubian ibex apart from some birds and insects. I was sleeping in
-            a tent. Sometimes Israelis sleep only in sleeping bags.
+            Campsites are designated and marked. Usually they do not differ
+            from surrounding environment except from leftovers from previous             people. Camping is popular among Israeli people. They arrive before             night, setting up their equipment, light fires. It is accompanied by                music. Negev Desert is a home for many animal species. Among them are:             Nubian ibex, hyrax, fox, wolf, onager, hedgehog, viper, dorcas gazelle,             snake, scorpion, camel. Some are active at night. Thus it is important             to camp only in designated places and not anywhere. During my hiking I             met only Nubian ibex apart from some birds and insects. I was sleeping             in a tent. Sometimes Israelis sleep only in sleeping bags.
           </p>
           <p align='justify'>	
             The desert part I was walking through was marked very well. The INT
@@ -98,7 +82,7 @@ class Main extends React.Component {
             colours.
           </p>
           <p align='justify'>	
-            The Negev Desert landscapes impressed me a lot. Diversity of rock
+            Landscapes of the Negev Desert impressed me a lot. Diversity of rock
             formation and their colours astonished me every day. It is also a
             place, in a certain sense, lively. Israelis are open-minded,
             hospitable and of mixed nationalities. They are curious about
