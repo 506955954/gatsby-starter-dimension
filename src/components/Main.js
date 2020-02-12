@@ -22,6 +22,38 @@ class Main extends React.Component {
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
         <article
+          id="?"
+          className={`${this.props.article === 'about' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+          <h2 className="major">?</h2>
+          <span className="image main">
+            <img src={pic03} alt="" />
+          </span>
+          <p>        
+          </p>
+          {close}
+        </article>
+
+        <article
+          id="?"
+          className={`${this.props.article === 'contact' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+          <h2 className="major">?</h2>
+          <span className="image main">
+            <img src={pic03} alt="" />
+          </span>
+          <p>            
+          </p>
+          {close}
+        </article>
+
+        <article
           id="Israel National Trail"
           className={`${this.props.article === 'israel' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
@@ -196,38 +228,6 @@ class Main extends React.Component {
             związani z Polską. Mają tam swoje korzenie. Myślę, że jak każda
             wędrówka tak i ta okazała się podróżą w głąb siebie. Otwarciem na
             drugiego człowieka.
-          </p>
-          {close}
-        </article>
-
-        <article
-          id="?"
-          className={`${this.props.article === 'about' ? 'active' : ''} ${
-            this.props.articleTimeout ? 'timeout' : ''
-          }`}
-          style={{ display: 'none' }}
-        >
-          <h2 className="major">?</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
-          <p>        
-          </p>
-          {close}
-        </article>
-
-        <article
-          id="?"
-          className={`${this.props.article === 'contact' ? 'active' : ''} ${
-            this.props.articleTimeout ? 'timeout' : ''
-          }`}
-          style={{ display: 'none' }}
-        >
-          <h2 className="major">?</h2>
-          <span className="image main">
-            <img src={pic03} alt="" />
-          </span>
-          <p>            
           </p>
           {close}
         </article>
