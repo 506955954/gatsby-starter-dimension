@@ -22,49 +22,16 @@ class Main extends React.Component {
         style={this.props.timeout ? { display: 'flex' } : { display: 'none' }}
       >
         <article
-          id="?"
-          className={`${this.props.article === 'israel' ? 'active' : ''} ${
-            this.props.articleTimeout ? 'timeout' : ''
-          }`}
-          style={{ display: 'none' }}
-        >
-          <h2 className="major">?</h2>
-          <span className="image main">
-            <img src={pic01} alt="" />
-          </span>
-          <p align='justify'>
-          </p>
-          {close}
-        </article>
-
-        <article
-          id="?"
-          className={`${this.props.article === 'work' ? 'active' : ''} ${
-            this.props.articleTimeout ? 'timeout' : ''
-          }`}
-          style={{ display: 'none' }}
-        >
-          <h2 className="major">?</h2>
-          <span className="image main">
-            <img src={pic02} alt="" />
-          </span>
-          <p align='justify'>
-          </p>
-          {close}
-        </article>
-
-        <article
           id="Israel National Trail"
-          className={`${this.props.article === 'about' ? 'active' : ''} ${
+          className={`${this.props.article === 'israel' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
           <h2 className="major">Israel National Trail</h2>
           <span className="image main">
-            <img src={pic03} alt="" />
+            <img src={pic01} alt="" />
           </span>
-          <p>
           <p align='justify'>
             Israel National Trail - According to National Geographic one of 
             the 20 best "epic hiking trails" in the world. It is also first
@@ -138,23 +105,22 @@ class Main extends React.Component {
             foreigners. Sometimes, during conversation, it turned out that they
             were connected with Poland. Their roots are of Polish origin. I think
             that like every journey, this journey has engraved a deep mark in me
-            by opening myself to other people.        
+            by opening myself to other people.
           </p>
           {close}
         </article>
 
         <article
           id="Izraelski Szlak Narodowy"
-          className={`${this.props.article === 'contact' ? 'active' : ''} ${
+          className={`${this.props.article === 'work' ? 'active' : ''} ${
             this.props.articleTimeout ? 'timeout' : ''
           }`}
           style={{ display: 'none' }}
         >
           <h2 className="major">Szlak Narodowy Izrl</h2>
           <span className="image main">
-            <img src={pic03} alt="" />
+            <img src={pic02} alt="" />
           </span>
-          <p> 
           <p align='justify'>
             Izraelski Szlak Narodowy - Narodowy szlak pieszy Izraela,
             przez National Geographic uznany za jeden z 20-stu najbardziej
@@ -229,7 +195,39 @@ class Main extends React.Component {
             otwartym, gościnnym, i zróżnicowanym etnicznie. Są ciekawi ludzi,             obcokrajowców. Często, podczas rozmowy, okazywało się, że są
             związani z Polską. Mają tam swoje korzenie. Myślę, że jak każda
             wędrówka tak i ta okazała się podróżą w głąb siebie. Otwarciem na
-            drugiego człowieka.           
+            drugiego człowieka.
+          </p>
+          {close}
+        </article>
+
+        <article
+          id="?"
+          className={`${this.props.article === 'about' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+          <h2 className="major">?</h2>
+          <span className="image main">
+            <img src={pic03} alt="" />
+          </span>
+          <p>        
+          </p>
+          {close}
+        </article>
+
+        <article
+          id="?"
+          className={`${this.props.article === 'contact' ? 'active' : ''} ${
+            this.props.articleTimeout ? 'timeout' : ''
+          }`}
+          style={{ display: 'none' }}
+        >
+          <h2 className="major">?</h2>
+          <span className="image main">
+            <img src={pic03} alt="" />
+          </span>
+          <p>            
           </p>
           {close}
         </article>
