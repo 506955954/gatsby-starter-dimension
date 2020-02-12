@@ -117,7 +117,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Izrl Szlak Narodowy</h2>
+          <h2 className="major">Szlak Narodowy Izrl</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
