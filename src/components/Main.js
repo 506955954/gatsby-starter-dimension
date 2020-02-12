@@ -32,7 +32,7 @@ class Main extends React.Component {
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
-          <p align=justify>
+          <p align='justify'>
             Israel National Trail - According to National Geographic one of 
             the 20 best "epic hiking trails" in the world. It is also first
             such a path implemented on Google maps as "Google Street View". 
