@@ -160,7 +160,7 @@ class Main extends React.Component {
             Są okazją do zjedzenia posiłku, uzupełnienia zapasów wody i
             jedzenia. Można tam też zatrzymać się na nocleg. Bywa, że
             mieszkają tam tzw. aniołowie szlaku. Jest wówczas możliwość
-            nocowania i umycia się u takich gospodarzy za darmo.Zapas wody
+            nocowania i umycia się u takich gospodarzy za darmo. Zapas wody
             i jedzenia na 2-3 dni niosłem ze sobą. Innym rozwiązaniem są 
             depozyty wody. Wtedy zapas czeka na nas w ustalonym miejscu. 
             Osobą dostarczającą jest np. taksówkarz z pobliskiej miejscowości.
@@ -169,7 +169,7 @@ class Main extends React.Component {
             Miejsca obozowisk są wyznaczone i oznakowane. Zazwyczaj nie
             różnią się od otaczającej przestrzeni oprócz pozostałości po
             ludziach wcześniej nocujących. Biwakowanie jest popularne wśród
-            Izraelczyków. Przyjeżdżają pod wieczór , rozstawiają sprzęty,
+            Izraelczyków. Przyjeżdżają pod wieczór, rozstawiają sprzęty,
             rozpalają ogniska. Towarzyszy temu muzyka. Pustynia Negew to dom
             dla wielu gatunków zwierząt. Są wśród nich m.in.: koziorożec
             nubijski, góralek, lis, wilk, onegar, jeż, żmija, gazela dorkas,
