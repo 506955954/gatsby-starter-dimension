@@ -51,8 +51,6 @@
       width: _size(border-width);
       height: calc(3.5rem + 1px);
       background: _palette(border);
-    }
-  }
 
   > :first-child {
     margin-top: 0;
@@ -63,11 +61,11 @@
   }
 
   .logo {
-    width: 5.5rem;
-    height: 5.5rem;
+    width: 7.5rem;
+    height: 7.5rem;
     line-height: 5.5rem;
     border: solid _size(border-width) _palette(border);
-    border-radius: 100%;
+    border-radius: 50%;
 
     .icon {
       &:before {
