@@ -55,7 +55,7 @@ class Main extends React.Component {
             Eilat Mountains section of the trail is supposedly the most
             difficult. First day is often spent on climbing colourful rocks. On             occasion ladders and handles are installed. I was passed by huge                    Israeli scholastic youth groups. They learn about their country and             sense of direction in this way. Most of INT hikers are Israelis, and             most were walking in opposite direction. I reached Timna Park after 
             few days. The area was famous for its copper deposits as far back as                antiquity. The Park is of geological-archaeological nature. It covers
-            vast honeycombed areas. The copper-smelting mines are remnants ofthe
+            vast honeycombed areas. The copper-smelting mines are remnants of the
             2nd millennium BC and subsequent tribes. It is believed that King
             Solomon's wealth originated here.
           </p>
