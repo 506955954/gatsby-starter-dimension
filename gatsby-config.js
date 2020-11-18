@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'SR Travels',
     author: 'Szymon Rakowski',
-    description: 'Szymon Rakowski Travels',
+    description: 'Szymon Rakowski Travels / Podróże',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
