@@ -28,7 +28,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Israel National Trail</h2>
+          <h2 className="major">INT</h2>
           <span className="image main">
             <img src={pic01} alt="" />
           </span>
@@ -101,7 +101,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Szlak Narodowy Izrl</h2>
+          <h2 className="major">ISN</h2>
           <span className="image main">
             <img src={pic02} alt="" />
           </span>
